@@ -1,5 +1,7 @@
 # emojiIdentifier
 
+Credit: https://heartbeat.fritz.ai/emoji-classifier-with-flutter-and-tensorflow-lite-51d026ac2cc
+
 A new Flutter project.
 
 ## Getting Started
